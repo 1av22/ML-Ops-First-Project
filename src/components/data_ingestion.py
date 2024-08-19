@@ -28,9 +28,10 @@ class DataIngestion:
             # Get current script's directory
             script_dir = os.path.dirname(os.path.abspath(__file__))
             # Construct path to data directory
-            data_dir = os.path.join(script_dir, '../data')
+            data_dir = os.path.join(script_dir, '..\\data')
             # Join with file name
-            data = pd.read_csv(os.path.join(data_dir, 'train.csv'))
+            data = pd.read_csv(os.path.join(
+                "E:\ML Ops\ML-Ops-First-Project\src\data", 'train.csv'))
 
             logging.info(" reading a df")
 

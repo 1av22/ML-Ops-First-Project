@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/ML%20Ops/ML-Ops-First-Project/mlruns/0/ad6d26adac9849699be0a0280bc3da4a/artifacts
+end_time: 1724086088857
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ad6d26adac9849699be0a0280bc3da4a
+run_name: clean-loon-400
+run_uuid: ad6d26adac9849699be0a0280bc3da4a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724086083400
+status: 3
+tags: []
+user_id: Asus

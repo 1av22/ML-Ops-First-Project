@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/ML%20Ops/ML-Ops-First-Project/mlruns/0/101171eddf424b70b4a8fd371c5c8efe/artifacts
+end_time: 1712866829126
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 101171eddf424b70b4a8fd371c5c8efe
+run_name: serious-fox-670
+run_uuid: 101171eddf424b70b4a8fd371c5c8efe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712866822606
+status: 3
+tags: []
+user_id: Asus

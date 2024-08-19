@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/ML%20Ops/ML-Ops-First-Project/mlruns/0/9a96d4821bd64441a1e4ce7ab7d81734/artifacts
+end_time: 1712562755373
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9a96d4821bd64441a1e4ce7ab7d81734
+run_name: judicious-koi-818
+run_uuid: 9a96d4821bd64441a1e4ce7ab7d81734
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712562751339
+status: 3
+tags: []
+user_id: Asus

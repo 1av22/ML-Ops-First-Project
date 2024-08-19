@@ -3,9 +3,9 @@ import sys
 import mlflow
 import mlflow.sklearn
 import numpy as np
-import pickle
+import pickle  # type: ignore
 from src.utils.utils import load_object
-from urllib.parse import urlparse
+from urllib.parse import urlparse  # type: ignore
 from sklearn.metrics import mean_squared_error, mean_absolute_error, r2_score
 from src.logger.logging import logging
 from src.exception. exception import customexception

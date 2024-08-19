@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/ML%20Ops/ML-Ops-First-Project/mlruns/0/5c1b4b08ddd24a72a505a9782d7c7839/artifacts
+end_time: 1712562142022
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5c1b4b08ddd24a72a505a9782d7c7839
+run_name: gentle-mole-358
+run_uuid: 5c1b4b08ddd24a72a505a9782d7c7839
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712562135492
+status: 3
+tags: []
+user_id: Asus
